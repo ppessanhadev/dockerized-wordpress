@@ -8,3 +8,10 @@ plugins/hello.php
 plugins/index.php
 
 DS_Store
+
+!plugins
+!themes/test/assets
+!themes/test/assets/css
+!themes/test/assets/js
+!themes/test/template-parts
+!themes/test/templates
